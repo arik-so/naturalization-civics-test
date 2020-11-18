@@ -1,6 +1,6 @@
 # naturalization-civics-test
 
-On November 13th 2020, USCIS [released](https://www.uscis.gov/news/news-releases/uscis-announces-a-revised-naturalization-civics-test) 
+On November 13th 2020, USCIS [announced](https://www.uscis.gov/news/news-releases/uscis-announces-a-revised-naturalization-civics-test) 
 a revised naturalization civics test. 
 That test goes into effect for all applications submitted after December 1st 2020, and has an updated
 [set of questions](https://www.uscis.gov/citizenship/2020test).

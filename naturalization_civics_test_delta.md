@@ -154,7 +154,7 @@
     - Freedom of religion
     - The right to bear arms
     
-67. ~~What is one promise you make when you become a United States citizen?~~ Name two promises that new citizens make in the Oath of Allegiance. _(significant rephrasing)_
+67. ~~What is one promise you make when you become a United States citizen?~~ Name two promises that new citizens make in the Oath of Allegiance. _(expansion)_
     - Give up loyalty to other countries
     - Defend the (U.S.) Constitution
     - Obey the laws of the United States

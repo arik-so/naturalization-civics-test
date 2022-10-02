@@ -76,3 +76,5 @@
 + * Self-government
 
 ```
+
+## A: Principles of American <span style="color: var(--color-prettylights-syntax-markup-deleted-text)">Democracy</span>
